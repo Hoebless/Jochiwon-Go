@@ -1,0 +1,427 @@
+fileFormatVersion: 2
+guid: 810eafceefdf3fd44af163428c190bda
+timeCreated: 1493923315
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Walk_Student_8
+    21300002: Walk_Student_7
+    21300004: Walk_Student_6
+    21300006: Walk_Student_4
+    21300008: Walk_Student_3
+    21300010: Student_5
+    21300012: Walk_Student_2
+    21300014: Walk_Student_0
+    21300016: Walk_Student_5
+    21300018: Walk_Student_1
+    21300020: Idle_Student_1
+    21300022: Idle_Student_0
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: iPhone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Walk_Student_8
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 455
+        width: 136
+        height: 261
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -22, y: 130.5}
+        - {x: -59, y: 119.5}
+        - {x: -53, y: 73.5}
+        - {x: -68, y: 56.5}
+        - {x: -68, y: -123.5}
+        - {x: -40, y: -130.5}
+        - {x: 68, y: -130.5}
+        - {x: 68, y: 130.5}
+      - - {x: 22, y: -12.5}
+        - {x: 19, y: -7.5}
+        - {x: 19, y: -1.5}
+        - {x: 21, y: -9.5}
+        - {x: 22, y: -12.5}
+        - {x: 21, y: -13.5}
+        - {x: 22, y: -19.5}
+        - {x: 23, y: -18.5}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Walk_Student_7
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 454
+        width: 127
+        height: 274
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -63.5, y: 137}
+        - {x: -63.5, y: -83}
+        - {x: -56.5, y: -93}
+        - {x: -41.5, y: -102}
+        - {x: -32.5, y: -101}
+        - {x: -3.5, y: -137}
+        - {x: 54.5, y: -137}
+        - {x: 63.5, y: -124}
+        - {x: 63.5, y: 120}
+        - {x: 54.5, y: 137}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Walk_Student_6
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 452
+        width: 92
+        height: 265
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -30, y: 132.5}
+        - {x: -38, y: 131.5}
+        - {x: -46, y: 109.5}
+        - {x: -46, y: 27.5}
+        - {x: -26, y: -85.5}
+        - {x: -5, y: -112.5}
+        - {x: 0, y: -111.5}
+        - {x: -3, y: -112.5}
+        - {x: -13, y: -118.5}
+        - {x: -18, y: -123.5}
+        - {x: -16, y: -132.5}
+        - {x: 46, y: -132.5}
+        - {x: 46, y: 132.5}
+      - - {x: 35, y: -10.5}
+        - {x: 38, y: -9.5}
+        - {x: 38, y: -6.5}
+        - {x: 35, y: -5.5}
+        - {x: 33, y: -7.5}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Walk_Student_4
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 456
+        width: 136
+        height: 257
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 53, y: 128.5}
+        - {x: -54, y: 128.5}
+        - {x: -68, y: 123.5}
+        - {x: -68, y: -109.5}
+        - {x: -47, y: -126.5}
+        - {x: -39, y: -128.5}
+        - {x: 68, y: -128.5}
+        - {x: 68, y: 95.5}
+        - {x: 64, y: 109.5}
+      - - {x: 28, y: -14.5}
+        - {x: 23, y: -8.5}
+        - {x: 24, y: 0.5}
+        - {x: 25, y: -4.5}
+        - {x: 29, y: -14.5}
+        - {x: 28, y: -17.5}
+        - {x: 29, y: -17.5}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Walk_Student_3
+      rect:
+        serializedVersion: 2
+        x: 1044
+        y: 464
+        width: 147
+        height: 296
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -42.5, y: 119}
+        - {x: -68.5, y: 109}
+        - {x: -71.5, y: 63}
+        - {x: -73.5, y: 39}
+        - {x: -73.5, y: -70}
+        - {x: -50.5, y: -134}
+        - {x: -29.5, y: -148}
+        - {x: 60.5, y: -148}
+        - {x: 60.5, y: 106}
+        - {x: 43.5, y: 119}
+      - - {x: 58.5, y: 109}
+        - {x: 43.5, y: 106}
+        - {x: 42.5, y: 103}
+        - {x: 42.5, y: 101}
+        - {x: 46.5, y: 99}
+        - {x: 53.5, y: 98}
+        - {x: 65.5, y: 101}
+        - {x: 66.5, y: 103}
+        - {x: 66.5, y: 108}
+        - {x: 65.5, y: 109}
+      - - {x: 66.5, y: 148}
+        - {x: 67.5, y: 145}
+        - {x: 71.5, y: 144}
+        - {x: 73.5, y: 144}
+        - {x: 73.5, y: 148}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Walk_Student_2
+      rect:
+        serializedVersion: 2
+        x: 1232
+        y: 460
+        width: 92
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20, y: 128}
+        - {x: -46, y: 120}
+        - {x: -46, y: -97}
+        - {x: -24, y: -124}
+        - {x: -2, y: -128}
+        - {x: 46, y: -128}
+        - {x: 46, y: 110}
+        - {x: 27, y: 128}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Walk_Student_0
+      rect:
+        serializedVersion: 2
+        x: 1596
+        y: 455
+        width: 132
+        height: 261
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -54, y: 130.5}
+        - {x: -66, y: 94.5}
+        - {x: -66, y: -97.5}
+        - {x: -54, y: -111.5}
+        - {x: -39, y: -120.5}
+        - {x: -31, y: -123.5}
+        - {x: -15, y: -127.5}
+        - {x: 1, y: -130.5}
+        - {x: 66, y: -130.5}
+        - {x: 66, y: 51.5}
+        - {x: 49, y: 130.5}
+      - - {x: 22, y: -19.5}
+        - {x: 23, y: -14.5}
+        - {x: 23, y: -11.5}
+        - {x: 18, y: -6.5}
+        - {x: 18, y: -4.5}
+        - {x: 19, y: -5.5}
+        - {x: 19, y: -9.5}
+        - {x: 22, y: -12.5}
+        - {x: 21, y: -18.5}
+        - {x: 21, y: -21.5}
+        - {x: 22, y: -21.5}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Walk_Student_5
+      rect:
+        serializedVersion: 2
+        x: 618
+        y: 452
+        width: 141
+        height: 245
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -37.5, y: 122.5}
+        - {x: -70.5, y: 76.5}
+        - {x: -70.5, y: -4.5}
+        - {x: -44.5, y: -16.5}
+        - {x: -40.5, y: -16.5}
+        - {x: -54.5, y: -113.5}
+        - {x: -51.5, y: -122.5}
+        - {x: 30.5, y: -122.5}
+        - {x: 70.5, y: -99.5}
+        - {x: 70.5, y: 18.5}
+        - {x: 41.5, y: 122.5}
+      - - {x: -60.5, y: 101.5}
+        - {x: -58.5, y: 99.5}
+        - {x: -55.5, y: 100.5}
+        - {x: -55.5, y: 105.5}
+        - {x: -57.5, y: 107.5}
+        - {x: -60.5, y: 106.5}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Walk_Student_1
+      rect:
+        serializedVersion: 2
+        x: 1391
+        y: 460
+        width: 135
+        height: 241
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 31.5, y: -60.5}
+        - {x: 31.5, y: -39.5}
+        - {x: 31.5, y: -44.5}
+        - {x: 33.5, y: -50.5}
+        - {x: 67.5, y: -44.5}
+        - {x: 67.5, y: 60.5}
+        - {x: 52.5, y: 120.5}
+        - {x: -39.5, y: 120.5}
+        - {x: -67.5, y: 101.5}
+        - {x: -67.5, y: -120.5}
+        - {x: 15.5, y: -120.5}
+        - {x: 13.5, y: -107.5}
+        - {x: 6.5, y: -97.5}
+        - {x: 3.5, y: -91.5}
+        - {x: 5.5, y: -94.5}
+        - {x: 8.5, y: -97.5}
+        - {x: 25.5, y: -120.5}
+        - {x: 45.5, y: -120.5}
+        - {x: 64.5, y: -94.5}
+        - {x: 61.5, y: -68.5}
+        - {x: 54.5, y: -64.5}
+      - - {x: 32.5, y: -20.5}
+        - {x: 28.5, y: -15.5}
+        - {x: 28.5, y: -11.5}
+        - {x: 30.5, y: -16.5}
+        - {x: 32.5, y: -18.5}
+        - {x: 32.5, y: -24.5}
+        - {x: 31.5, y: -25.5}
+        - {x: 32.5, y: -25.5}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Idle_Student_1
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 49
+        width: 92
+        height: 266
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -25, y: 133}
+        - {x: -46, y: 127}
+        - {x: -46, y: 4}
+        - {x: -35, y: -133}
+        - {x: 41, y: -133}
+        - {x: 46, y: -91}
+        - {x: 46, y: 133}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Idle_Student_0
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 51
+        width: 92
+        height: 265
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 46, y: 24.5}
+        - {x: 46, y: 116.5}
+        - {x: 40, y: 132.5}
+        - {x: -28, y: 132.5}
+        - {x: -45, y: 109.5}
+        - {x: -46, y: 108.5}
+        - {x: -46, y: -24.5}
+        - {x: -37, y: -132.5}
+        - {x: 16, y: -132.5}
+        - {x: 20, y: -127.5}
+        - {x: 21, y: -116.5}
+        - {x: 32, y: -22.5}
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
